@@ -4,6 +4,8 @@
 
 **UNI: amm2478**
 
+**Video demo can be found under Demo.txt**
+
 ## What has changed
 
 In prior iterations of this project, I implemented a scanner and parser for my 3D printing language that would output ASTs based on lexical tokens and a context-free grammar I developed. I also implemented a code generation step that produced relevant GCode based on a given AST and demonstrated how it works when you run it on a 3D printing simulator like https://ncviewer.com.
